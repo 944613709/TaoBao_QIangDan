@@ -1,0 +1,1 @@
+pyinstaller -F  -i D:\备份\Python\TaoBao\favicon.ico D:\备份\Python\TaoBao\main.py

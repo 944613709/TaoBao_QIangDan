@@ -4,6 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pyttsx3
 now = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
+
+print("请按照以下格式输入开始抢单时间，格式例子：2022-05-15 21:00:00")
 times = "2022-05-15 21:00:00"
 
 # 注意此处添加了chrome_options参数

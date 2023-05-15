@@ -2,6 +2,8 @@
 
 这个是淘宝自动抢单
 
+采用pyqt5+pyUIC+qt designer+senuim
+
 期间有语音提示
 
 ## 需求

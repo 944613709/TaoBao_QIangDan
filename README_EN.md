@@ -1,4 +1,6 @@
-# Taobao Auto Purchase Tool
+# Taobao Flash Buy | 淘宝自动抢单工具
+
+English | [简体中文](README.md)
 
 > **⚠️ Maintenance Status: ARCHIVED**
 >
@@ -41,9 +43,11 @@ A Python-based automatic purchase tool for Taobao, featuring a PyQt5 GUI interfa
 
 1. Clone or download this project
 2. Install required Python packages:
+
 ```bash
 pip install PyQt5 selenium pyttsx3
 ```
+
 3. Download ChromeDriver matching your Chrome browser version
 4. Place ChromeDriver in the correct directory (default: D:\python)
 
@@ -90,4 +94,4 @@ Feedback and feature suggestions are welcome. If you'd like to contribute code:
 
 ## Disclaimer
 
-This tool is for educational and research purposes only. Users bear all responsibility for any consequences of using this tool. Please ensure your usage complies with Taobao platform rules and terms. 
+This tool is for educational and research purposes only. Users bear all responsibility for any consequences of using this tool. Please ensure your usage complies with Taobao platform rules and terms.

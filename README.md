@@ -1,4 +1,6 @@
-# 淘宝自动抢单工具
+# 淘宝自动抢单工具 | Taobao Flash Buy
+
+[English](README_EN.md) | 简体中文
 
 一个基于 Python 的淘宝商品自动抢单工具，使用 PyQt5 构建图形界面，支持定时自动抢购购物车中的商品。
 
